@@ -32,7 +32,8 @@ Linux • Git • Docker • Bash • gcc • gdb • valgrind
 
 # Featured Projects
 
-## 🧠 Large-Scale NLP Classification & Feature Engineering Pipeline
+## 🧠 [Large-Scale NLP Classification & Feature Engineering Pipeline] (https://github.com/cjdevault/Large-Scale-NLP-Classification-Feature-Engineering-Pipeline.git)
+
 Built an end-to-end NLP classification pipeline analyzing ~20,000 labeled social media posts using TF-IDF vectorization and transformer embeddings.
 
 ### Highlights
