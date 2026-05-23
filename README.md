@@ -1,6 +1,6 @@
 # Hi, I'm Christopher De Vault 👋
 
-Recent Computer Science graduate from the University of Arizona with a strong foundation in machine learning, systems programming, database engineering, and data analytics. I enjoy building technically challenging projects that combine software engineering, low-level systems concepts, and data-driven problem solving.
+Recent Computer Science graduate from the University of Arizona with a strong foundation in machine learning, systems programming, database engineering, and data analytics. I have experience building projects that cover principals in software engineering, low-level systems concepts, and data-driven problem solving.
 
 ---
 
@@ -11,7 +11,6 @@ Recent Computer Science graduate from the University of Arizona with a strong fo
 - Database Systems & SQL
 - Systems Programming & Operating Systems
 - Data Infrastructure & Automation
-- Backend Engineering
 
 ---
 
@@ -103,9 +102,8 @@ Represented the University of Arizona in a regional cybersecurity competition in
 
 # 🏉 Outside of Tech
 
-- Collegiate rugby player competing at the highest level of university rugby in the United States
-- Interested in cybersecurity, systems engineering, analytics, and infrastructure
-- Passionate about solving difficult technical problems and continuously learning
+- Former collegiate rugby player competing at the highest level of university rugby in the United States
+- Enjoy spending time outdoors hiking, backpacking, surfing, and everything in between
 
 ---
 
