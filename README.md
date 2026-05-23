@@ -17,7 +17,7 @@ Recent Computer Science graduate from the University of Arizona with a strong fo
 ## 🛠 Tech Stack
 
 ### Languages
-Python • SQL • Java • C • Go • Bash
+Python • SQL • Java • C • Bash
 
 ### Data & Machine Learning
 pandas • NumPy • scikit-learn • Matplotlib • NLP • BERT • PCA • Jupyter Notebook
