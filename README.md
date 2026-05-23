@@ -47,7 +47,7 @@ Built an end-to-end NLP classification pipeline analyzing ~20,000 labeled social
 
 ---
 
-## 🗄 D[ata Warehouse & Relational Database Engineering Project](https://github.com/cjdevault/Data-Warehouse-Relational-Database-Engineering-Project.git)
+## 🗄 [Data Warehouse & Relational Database Engineering Project](https://github.com/cjdevault/Data-Warehouse-Relational-Database-Engineering-Project.git)
 Designed and implemented a normalized Oracle relational database with 15+ interconnected entities and analytical SQL reporting.
 
 ### Highlights
