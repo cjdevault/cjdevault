@@ -61,17 +61,20 @@ Designed and implemented a normalized Oracle relational database with 15+ interc
 
 ---
 
-## 🖥 Linux Framebuffer Graphics Engine
-Developed a low-level graphics library in C using Linux framebuffer access and memory-mapped I/O.
+## 💾 [Virtual Memory Simulator & Page Replacement Analysis](https://github.com/cjdevault/virtual-memory-simulator)
+
+Developed a virtual memory simulator implementing OPT, CLOCK, Rand, and NRU page replacement algorithms using Valgrind memory traces to benchmark page fault behavior, dirty page writebacks, and workload locality characteristics.
 
 ### Highlights
-- Implemented double-buffered rendering using `/dev/fb0`
-- Used `ioctl`, `mmap`, `select`, and noncanonical terminal I/O
-- Reduced screen tearing with efficient buffer-swapping logic
-- Worked directly with low-level Linux system interfaces
+
+- Implemented configurable virtual memory simulation with multiple replacement strategies
+- Analyzed over 2.4 million memory accesses across multiple workloads
+- Conducted comparative performance analysis using page fault ratios and disk-write metrics
+- Evaluated algorithmic tradeoffs between theoretical and practical replacement policies
 
 ### Technologies
-`C` `Linux` `mmap` `ioctl`
+
+`C` `Linux` `Operating Systems` `Valgrind` `Performance Analysis`
 
 ---
 
