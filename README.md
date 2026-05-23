@@ -78,7 +78,7 @@ Developed a virtual memory simulator implementing OPT, CLOCK, Rand, and NRU page
 
 ---
 
-## ⚙️ Expression Parser & Interpreter in Go
+## ⚙️ [Expression Parser & Interpreter in Go](https://github.com/cjdevault/Go-expression-parser.git)
 Built a custom arithmetic expression interpreter in Go with compiler-style architecture.
 
 ### Highlights
