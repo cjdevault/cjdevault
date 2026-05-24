@@ -29,6 +29,16 @@ Oracle SQL • JDBC • Relational Databases • Data Modeling • Normalization
 Linux • Git • Docker • Bash • gcc • gdb • valgrind
 
 ---
+## Personal Technical Website
+Feel free to explore my website which hosts some of the same information here and some more. 
+I've developed it here on Github so you can checkout the repository if interested in the source code.
+  
+There you can also find my blog on computer science topics, philosophy, and whatever more I feel like writing about. 
+In addition, I update on recent work and projects I'm developing and notes about them. 
+
+[Click Here](https://cjdevault.github.io/Portfolio-Website/index.html) to visit my website!
+
+---
 
 # Featured Projects
 
