@@ -10,7 +10,7 @@ Recent Computer Science graduate from the University of Arizona with a strong fo
 - Machine Learning & NLP
 - Database Systems & SQL
 - Data Infrastructure & Automation
-- Sale Engineering
+- Sales Engineering
 
 ---
 
